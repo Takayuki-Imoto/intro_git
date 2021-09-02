@@ -2,5 +2,9 @@ first challenge
 to staging area => git add
 to local repository => git commit
 to remote repository => git push
+to check contemporary status => git status
+
+to staging area which you removed file => git rm 
+to local repository => git commit -v
 
 you have to add or commit a single change, so git add is likely waiting room because of selecting a file among everal changed files. 
