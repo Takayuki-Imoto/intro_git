@@ -25,3 +25,17 @@ git remote add origin https://github.com/user/repo.git
 you can access GitHub repository as origin
 
 git push origin main
+main is one of the branch
+
+.gitignore 
+out from git manage
+# is comment
+index.html file
+ /root.html
+ dir/
+ 
+ git rm filename
+ git rm -r directoryname
+ 
+ git rm --cached filename
+
