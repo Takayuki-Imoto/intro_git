@@ -9,9 +9,12 @@ down press[j]
 up press[k]
 exit press[q]
 
-igt log --oneline
+git log --oneline
 
-git log -p
+git log -p 
+
+to check difference between local and staging => git diff
+to chekc difference between staging and latest commit => git diff HEAD
 
 to staging area which you removed file => git rm 
 to local repository => git commit -v
