@@ -1,0 +1,4 @@
+first challenge
+to staging area => git add
+to local repository => git commit
+to remote repository => git push
