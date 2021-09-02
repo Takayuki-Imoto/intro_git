@@ -24,4 +24,4 @@ you have to add or commit a single change, so git add is likely waiting room bec
 git remote add origin https://github.com/user/repo.git
 you can access GitHub repository as origin
 
-git push origin master
+git push origin main
