@@ -4,6 +4,15 @@ to local repository => git commit
 to remote repository => git push
 to check contemporary status => git status
 
+git log
+down press[j]
+up press[k]
+exit press[q]
+
+igt log --oneline
+
+git log -p
+
 to staging area which you removed file => git rm 
 to local repository => git commit -v
 
