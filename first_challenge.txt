@@ -2,3 +2,5 @@ first challenge
 to staging area => git add
 to local repository => git commit
 to remote repository => git push
+
+you have to add or commit a single change, so git add is likely waiting room because of selecting a file among everal changed files. 
